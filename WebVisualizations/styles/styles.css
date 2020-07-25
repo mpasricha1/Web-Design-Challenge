@@ -11,7 +11,11 @@ p {
 	font-size:20px;
 	text-indent: 2.0em;
 }
-#col1 {
+
+@media (min-width: 768px) {
+	#col1 {
 	padding-left:200px;
 }
+}
+
 

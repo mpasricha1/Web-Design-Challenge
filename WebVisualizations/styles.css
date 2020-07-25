@@ -9,6 +9,10 @@ p {
 	padding-left:50px;
 	padding-right:75px;
 	font-size:18px;
+	text-indent: 2.0em;
+}
+p #comptext{
+	font-size:14px;
 }
 ul {
 	right:0px;
